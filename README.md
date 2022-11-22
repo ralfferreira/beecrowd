@@ -2,9 +2,7 @@
 
 This contains all the code developed on the Beecrowd platform
 
-## Link de problemas do Beecrowd
-
-Most problems in this repository are found under "1. Iniciante"
+## Beecrowd Problems
 
 https://www.beecrowd.com.br/judge/pt/categories
 
